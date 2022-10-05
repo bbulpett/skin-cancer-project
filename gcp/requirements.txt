@@ -1,0 +1,9 @@
+# This file is used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+google-cloud-storage==2.3.0
+tensorflow==2.8.0
+python-multipart
+pillow
+tensorflow-serving-api==2.8.0
+matplotlib
+numpy
